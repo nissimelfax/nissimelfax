@@ -6,10 +6,10 @@ tools around them.
 
 🛠️ **Featured projects**
 - [**Encrypted C2 Framework**](https://github.com/nissimelfax/python-c2-framework)
-  — a command-and-control framework in Python: from-scratch RSA + AES, over raw
+  - a command-and-control framework in Python: from-scratch RSA + AES, over raw
   sockets and HTTP tunneling, with a web dashboard.
 - [**MITM Lab Toolkit**](https://github.com/nissimelfax/MITM-lab-toolkit)
-  — educational ARP/DNS spoofing + TCP RST tooling (Python / Scapy).
+  - educational ARP/DNS spoofing + TCP RST tooling (Python / Scapy).
 
 🧠 **Interests:** offensive tooling, network security, applied cryptography,
 reverse engineering.
